@@ -53,7 +53,11 @@ Admin có thể tìm menu quản lý FAQ và cài đặt FAQ ở thanh menu chí
 
 Admin sau khi vào quản lý FAQ sẽ thấy danh sách các câu hỏi và câu trả lời của Admin
 
+![image](https://user-images.githubusercontent.com/72716233/227953062-e54acbed-e8a8-474f-8c04-0629037468f2.png)
+
 Admin có thể vào Action edit để trả lời các câu hỏi
+
+![image](https://user-images.githubusercontent.com/72716233/227953195-0cd6c6e1-5e0b-495a-9cf5-ea8c222afff6.png)
 
 ![image](https://user-images.githubusercontent.com/72716233/227947352-11686dcd-13a3-449a-9d33-5169a562c376.png)
 
